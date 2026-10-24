@@ -1,0 +1,15 @@
+
+{
+  "name": "empleou-api",
+  "version": "1.0.0",
+  "description": "API mínima del proyecto EmpleoU",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "private": true
+}
